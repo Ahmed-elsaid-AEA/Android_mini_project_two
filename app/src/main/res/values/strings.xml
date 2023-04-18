@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TwoMiniProject</string>
+    <string name="Information">Learn About My Project number 2 </string>
+    <string name="Login">Log in : </string>
+    <string name="UserName">User Name : </string>
+    <string name="EnterUserName">Enter User Name  </string>
+    <string name="EnterPassword">Enter Your Passwrod</string>
+    <string name="Password">Password : </string>
+    <string name="ForgetPassword">Forget Password ....!?</string>
+    <string name="loginbtn">Login</string>
+    <string name="DontHaveAnAccount">Don\'t Have an Account</string>
+    <string name="registerNow">Register Now</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">المشروع رقم 2</string>
+    <string name="Information">"Learn About My Project number 2 "</string>
+    <string name="Login">تسجيل الدخول :</string>
+    <string name="UserName">الاسم :</string>
+    <string name="EnterUserName"> إدخل الاسم الخاص بك  </string>
+    <string name="EnterPassword">إدخل الباسورد  </string>
+    <string name="Password">الباسورد : </string>
+    <string name="ForgetPassword">نسيت الباسورد .... ؟</string>
+    <string name="loginbtn">تسجيل</string>
+    <string name="DontHaveAnAccount">ليس لدي حساب</string>
+    <string name="registerNow">تسجيل حساب جديد</string>
+</resources>
